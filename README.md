@@ -4,7 +4,7 @@ I am currently in the process of building a foundation of knowledge that will he
 - <b>Active Directory Lab</b>
   - [Learning and Practicing Active Directory](https://github.com/X-Arguelles/Active-Directory-Lab)
 
-<h2>Connect with me</h2>
+<h2>Connect with me:</h2>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/xavier-arguelles/)
 <!--
