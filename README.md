@@ -1,8 +1,12 @@
 <h1>Hi, I'm Xavier Arguelles.</h1>
+I am currently in the process of building a foundation of knowledge that will help land an entry level IT position to start the journey of pursuing a career in cyber security.
 <h2>IT Projects:</h2>
 - <b>Active Directory Lab</b>
   - [Learning and Practicing Active Directory](https://github.com/X-Arguelles/Active-Directory-Lab)
 
+<h2>Connect with me</h2>
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/xavier-arguelles/)
 <!--
 ## 🌐 Connect with me
 
