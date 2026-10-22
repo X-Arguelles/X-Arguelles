@@ -5,10 +5,8 @@ I am currently in the process of building a foundation of knowledge that will he
   (Setting up and practicing Active Directory Domain Services) https://github.com/X-Arguelles/Active-Directory-Lab
 
 <h2>Certificates:</h2>
- <b>Networking Basics</b> - Cisco Network Academy
-  https://www.netacad.com/recognitions/verify/3b189678-ecbd-4edc-87ab-5013c6eb0a8c 
-  <b>Information Technology Fundamentals</b> - IBM Skills Build 
-  https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2 
+<b>Networking Basics</b> - Cisco Network Academy https://www.netacad.com/recognitions/verify/3b189678-ecbd-4edc-87ab-5013c6eb0a8c 
+<b>Information Technology Fundamentals</b> - IBM Skills Build https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2 
 <h2>Connect with me:</h2>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/xavier-arguelles/)
