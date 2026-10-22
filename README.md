@@ -2,7 +2,7 @@
 I am currently in the process of building a foundation of knowledge that will help land an entry level IT position to start the journey of pursuing a career in cyber security.
 <h2>IT Projects:</h2>
 - <b>Active Directory Lab</b>
-  - [Learning and Practicing Active Directory](https://github.com/X-Arguelles/Active-Directory-Lab)
+  (Setting up and practicing Active Directory Domain Services) https://github.com/X-Arguelles/Active-Directory-Lab
 
 <h2>Connect with me:</h2>
 
