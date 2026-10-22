@@ -1,9 +1,14 @@
 <h1>Hi, I'm Xavier Arguelles.</h1>
 I am currently in the process of building a foundation of knowledge that will help land an entry level IT position to start the journey of pursuing a career in cyber security.
 <h2>IT Projects:</h2>
-- <b>Active Directory Lab</b>
+<b>Active Directory Lab</b>
   (Setting up and practicing Active Directory Domain Services) https://github.com/X-Arguelles/Active-Directory-Lab
 
+<h2>Certificates:</h2>
+ <b>Networking Basics</b> - Cisco Network Academy
+  https://www.netacad.com/recognitions/verify/3b189678-ecbd-4edc-87ab-5013c6eb0a8c 
+  <b>Information Technology Fundamentals</b> - IBM Skills Build 
+  https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2 
 <h2>Connect with me:</h2>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/xavier-arguelles/)
